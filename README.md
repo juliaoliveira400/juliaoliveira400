@@ -1,31 +1,42 @@
-<h1 align="center">Olá, eu sou a Júlia!</h1>
+# Olá, eu sou a Júlia Oliveira! 👋
 
-###
+### Analista de Dados | Engenharia de Computação — Belém, PA
 
-<h3 align="left">Sobre mim</h3>
+Estudante de Engenharia de Computação (CESUPA) com experiência prática em análise de dados, automação de processos e visualização de indicadores em ambiente real de trabalho. Apaixonada por transformar dados em decisões.
 
-###
+---
 
-<p align="left">Estudante de Engenharia da Computação<br>- Iniciei meus estudos com programação esse ano<br>- Atualmente estou estudando python para desenvolvimento web análise de dados</p>
+## 🛠️ Ferramentas & Tecnologias
 
-###
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h3 align="left">Linguagens e ferramentas</h3>
+---
 
-###
+## 📂 Projetos em Destaque
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+### 📊 [Dashboard Financeiro — Power BI](https://github.com/juliaoliveira400/portfolio-dados)
+Dashboard interativo com KPIs financeiros de uma loja de moda paraense.
+Filtros dinâmicos por mês e produto · Medidas DAX · Power Query
 
-###
+---
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=juliaoliveira400&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliaoliveira400&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaoliveira400&layout=compact&theme=tokyonight&hide_border=true)
+
 </div>
 
-###
+---
+
+## 📬 Contato
+
+[![Gmail](https://img.shields.io/badge/julia.engcomputacao@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:julia.engcomputacao@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/juliaoliveira](https://www.linkedin.com/in/julia-oliveira-4081b7280/))
