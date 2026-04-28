@@ -39,4 +39,4 @@ Filtros dinâmicos por mês e produto · Medidas DAX · Power Query
 ## 📬 Contato
 
 [![Gmail](https://img.shields.io/badge/julia.engcomputacao@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:julia.engcomputacao@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-oliveira-4081b7280/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julia-oliveira-4081b7280/)
